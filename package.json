@@ -1,0 +1,17 @@
+{
+  "name": "black-white-node-express-sharp",
+  "version": "1.0.0",
+  "description": "black-white-node-express-sharp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "sharp": "^0.23.3"
+  }
+}
